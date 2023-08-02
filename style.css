@@ -195,4 +195,10 @@ h1 {
   .btn-add {
     margin-top: 30px;
   }
+  .popup {
+    width: 575px;
+  }
+  .todo {
+    width: 575px;
+  }
 }
